@@ -1,1 +1,1 @@
-GET /graphiql   controllers.Assets.at(path="/public", file="graphiql.html")
+GET /   controllers.Assets.at(path="/public", file="graphiql.html")
