@@ -1,0 +1,1 @@
+GET /graphiql   controllers.Assets.at(path="/public", file="graphiql.html")
